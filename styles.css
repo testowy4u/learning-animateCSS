@@ -1,0 +1,12 @@
+.animation-container {
+  text-align: center;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.animation-container h2 {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 200px;
+}
